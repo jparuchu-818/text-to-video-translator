@@ -1,0 +1,37 @@
+# Core Python libraries
+requests
+tqdm
+nltk
+
+# AI & LLMs
+transformers==4.44.2
+sentence-transformers==2.6.1
+torch==2.2.2
+accelerate==1.9.0
+safetensors==0.5.3
+
+# Diffusion / Image Generation
+diffusers==0.30.2
+Pillow==10.3.0
+scipy==1.10.1
+numpy==1.23.5
+invisible-watermark==0.2.0
+
+# Text-to-Speech (TTS)
+gTTS==2.5.1
+pydub==0.25.1
+
+# Whisper (for audio transcription)
+openai-whisper
+
+# Translation
+deep-translator
+
+# Video Processing
+moviepy==1.0.3
+imageio==2.33.1
+imageio-ffmpeg==0.4.9
+
+# Compatibility
+matplotlib==3.10.3
+importlib-metadata==8.7.0
